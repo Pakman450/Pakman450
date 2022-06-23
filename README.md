@@ -7,6 +7,7 @@ My name is Steven Pak (Pharm.D), and I am an aspiring Full Stack Developer with 
 # Technologies && Tools 🧪
 <img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=FFE873"> </img>
 <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus"> </img>
+<img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"> </img>
 
 
 
