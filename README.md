@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="justify">
-My name is Steven Pak (Pharm.D, Ph.D), and I am an aspiring Full Stack Developer with a pharmacy and drug design background. Right now, I am a post-doctoral associate in the Rizzo Lab in Stony Brook University. The lab focuses on molecular docking of virtual molecules and the development of new de novo drug design routines.
+My name is Steven Pak (Pharm.D., Ph.D.), and I am a scientist specializing in computational drug design. My expertise spans molecular docking, software development, and web technologies, with a strong foundation in both pharmacy and drug discovery. I am currently a postdoctoral associate in the Rizzo Lab at Stony Brook University, where our research focuses on molecular docking of virtual molecules and the development of novel de novo drug design methodologies.
 </div>
 
 
