@@ -36,9 +36,12 @@ My name is Steven Pak (Pharm.D., Ph.D.), and I am a scientist specializing in co
 
 <div>
   <a href="https://github.com/docking-org/dock6">
-    <img src="https://img.shields.io/badge/-DOCK6.9-black?style=for-the-badge"> </src>
+    <img src="https://img.shields.io/badge/-DOCK6.13-black?style=for-the-badge"> </src>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/-Mol2db-black?style=for-the-badge"> </src>
+    <img src="https://img.shields.io/badge/-rdkitdescriptor-black?style=for-the-badge"> </src>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-dockweb-black?style=for-the-badge"> </src>
   </a>
 </div>
