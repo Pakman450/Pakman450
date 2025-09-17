@@ -7,7 +7,7 @@ My name is Steven Pak (Pharm.D., Ph.D.), and I am a scientist specializing in co
 # Technologies && Tools 🧪
 <div>
   <a href="https://dock.compbio.ucsf.edu/DOCK_6/dock6_manual.htm">
-    <img src="https://img.shields.io/badge/-DOCK6.9-black?style=for-the-badge"></img>
+    <img src="https://img.shields.io/badge/-DOCK6-black?style=for-the-badge"></img>
   </a>
   <img src="https://img.shields.io/badge/-Chimera-black?style=for-the-badge"> </img>
   <img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=FFE873"> </img>
